@@ -39,8 +39,10 @@
     "Application.CharAccuranceString.executor": "Run",
     "Application.CharCountString.executor": "Run",
     "Application.CharacterOccurance.executor": "Run",
+    "Application.CommonNumberArray.executor": "Run",
     "Application.EachWordAccuranceString.executor": "Run",
     "Application.GroupBy.executor": "Run",
+    "Application.LongestSubStringLength.executor": "Run",
     "Application.WordAccuranceString.executor": "Run",
     "Application.WordOccurance.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -54,9 +56,9 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LongestSubStringLength">
-    <configuration name="CharCountString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringPrograms.CharCountString" />
+  <component name="RunManager" selected="Application.CommonNumberArray">
+    <configuration name="CharacterOccurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPrograms.CharacterOccurance" />
       <module name="core-java-programs" />
       <extension name="coverage">
         <pattern>
@@ -68,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharacterOccurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringPrograms.CharacterOccurance" />
+    <configuration name="CommonNumberArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayPrograms.CommonNumberArray" />
       <module name="core-java-programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringPrograms.*" />
+          <option name="PATTERN" value="ArrayPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommonNumberArray" />
         <item itemvalue="Application.LongestSubStringLength" />
         <item itemvalue="Application.CharacterOccurance" />
         <item itemvalue="Application.WordOccurance" />
         <item itemvalue="Application.EachWordAccuranceString" />
-        <item itemvalue="Application.CharCountString" />
       </list>
     </recent_temporary>
   </component>
