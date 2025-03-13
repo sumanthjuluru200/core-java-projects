@@ -1,96 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="737bf203-ae62-48e1-90be-0ae968dceba4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/java/basics/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.navigator.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springframework.ide.eclipse.imports.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.frameworks.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.3.20211002-1029.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/version.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/ArrayCopy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/ArrayCopy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/ArrayEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/ArrayEven.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/ArrayOddNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/ArrayOddNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/DuplicatesArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/DuplicatesArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/LargestNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/LargestNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/ReverseArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/SecondLargestNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/SecondLargestNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/SmallestNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/SmallestNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/SumOfArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/SumOfArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/BasicPrograms/FactorialNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/BasicPrograms/FactorialNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/BasicPrograms/NumberAccur.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/BasicPrograms/NumberAccur.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/BasicPrograms/PalindromeNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/BasicPrograms/PalindromeNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/BasicPrograms/RandomNumbersGen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/BasicPrograms/RandomNumbersGen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/StringPrograms/DuplicatesInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/StringPrograms/DuplicatesInString.class" afterDir="false" />
+    <list default="true" id="737bf203-ae62-48e1-90be-0ae968dceba4" name="Changes" comment="latest programs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/StringPrograms/StringAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/StringPrograms/StringAnagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/StringPrograms/StringCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/StringPrograms/StringCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/StringPrograms/StringDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/StringPrograms/StringDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/StringPrograms/StringStartsWith.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/StringPrograms/StringStartsWith.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/ArraySeggregationi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/ArraySeggregationi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/CharAccurString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/CharAccurString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/DuplicatesInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/DuplicatesInArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/DuplicatesInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/DuplicatesInString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/FibanocciSeries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/FibanocciSeries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/NumberPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/NumberPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/SecondLargeNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/SecondLargeNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/practice/CharAccurString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/practice/CharAccurString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/practice/DupString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/practice/DupString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/practice/DuplicateChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/practice/DuplicateChars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/practice/DuplicateNums.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/practice/DuplicateNums.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/practice/EvenNums.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/practice/EvenNums.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/streamapi/DuplicateChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/streamapi/DuplicateChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/Palindrome.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/streamapi/DuplicateElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/streamapi/DuplicateElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/streamapi/Employe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/streamapi/Employe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/streamapi/EmployeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/streamapi/EmployeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/streamapi/EvenNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/streamapi/EvenNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/streamapi/GroupBy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/streamapi/GroupBy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/streamapi/ListMergeAndSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/streamapi/ListMergeAndSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streamapi/DuplicateChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streamapi/DuplicateChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringPrograms/StringAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringPrograms/StringAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/basics/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/basics/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/streamapi/DuplicateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streamapi/DuplicateElements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,15 +40,28 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/suman/OneDrive/Desktop/workspace/spring-boot-junit-testing&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/spring-boot-workspace/employee-management-system&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindDuplicates">
-    <configuration name="FibanocciNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.FibanocciNum" />
+  <component name="RunManager" selected="Application.StringCharOccurance">
+    <configuration name="DuplicateChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPrograms.DuplicateChar" />
+      <module name="core-java-programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateCharString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.DuplicateCharString" />
       <module name="core-java-programs" />
       <extension name="coverage">
         <pattern>
@@ -142,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibanocciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.FibanocciSeries" />
+    <configuration name="Palindrome1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Palindrome1" />
       <module name="core-java-programs" />
       <extension name="coverage">
         <pattern>
@@ -155,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.FindDuplicates" />
+    <configuration name="StringCharOccurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPrograms.StringCharOccurance" />
       <module name="core-java-programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="StringPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,21 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListMergeAndSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.ListMergeAndSort" />
-      <module name="core-java-programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondLargestNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.SecondLargestNum" />
+    <configuration name="practice.Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Palindrome" />
       <module name="core-java-programs" />
       <extension name="coverage">
         <pattern>
@@ -196,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindDuplicates" />
-        <item itemvalue="Application.SecondLargestNum" />
-        <item itemvalue="Application.ListMergeAndSort" />
-        <item itemvalue="Application.FibanocciNum" />
-        <item itemvalue="Application.FibanocciSeries" />
+        <item itemvalue="Application.StringCharOccurance" />
+        <item itemvalue="Application.DuplicateCharString" />
+        <item itemvalue="Application.DuplicateChar" />
+        <item itemvalue="Application.Palindrome1" />
+        <item itemvalue="Application.practice.Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +131,21 @@
       <option name="presentableId" value="Default" />
       <updated>1665727367836</updated>
     </task>
+    <task id="LOCAL-00001" summary="latest programs">
+      <created>1728113402548</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728113402548</updated>
+    </task>
+    <task id="LOCAL-00002" summary="latest programs">
+      <created>1728113424922</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728113424922</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,5 +158,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="latest programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="latest programs" />
   </component>
 </project>

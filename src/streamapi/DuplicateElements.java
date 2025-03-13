@@ -23,6 +23,8 @@ public class DuplicateElements {
         System.out.println("duplicate strings");
         Set<String> dulicateStrings = string.stream().filter(i -> Collections.frequency(string, i) > 1).collect(Collectors.toSet());
         System.out.println(dulicateStrings);
+        List<String> startWith=string.stream().filter(e->e.startsWith("s")).collect(Collectors.toList());
+        System.out.println("startWith s- "+startWith);
 
     }
 }

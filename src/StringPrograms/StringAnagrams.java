@@ -7,7 +7,7 @@ public class StringAnagrams {
 
     public static void main(String[] args) {
         String str1 = "grab";
-        String str2 = "brag";
+        String str2 = "brags";
 
         str1 = str1.toLowerCase();
         str2 = str2.toLowerCase();
