@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="737bf203-ae62-48e1-90be-0ae968dceba4" name="Changes" comment="latest programs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/StringPrograms/StringAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/StringPrograms/StringAnagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/com/java/basics/Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/streamapi/DuplicateElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/streamapi/DuplicateElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringPrograms/StringAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringPrograms/StringAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/basics/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/basics/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streamapi/DuplicateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streamapi/DuplicateElements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +22,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sumanthjuluru200&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sumanthjuluru200/core-java-projects.git&quot;,
+    &quot;accountId&quot;: &quot;ee8a6a05-c0a4-4c3a-a846-3ad9f318cc19&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2G76eAGzRvfiNMKUcETahn2Mf9J" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -40,13 +52,16 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;E:/spring-boot-workspace/employee-management-system&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringCharOccurance">
+  <component name="RunManager" selected="Application.DuplicateWordsCount">
     <configuration name="DuplicateChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringPrograms.DuplicateChar" />
       <module name="core-java-programs" />
@@ -66,6 +81,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateWordsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPrograms.DuplicateWordsCount" />
+      <module name="core-java-programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,26 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice.Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.Palindrome" />
-      <module name="core-java-programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuplicateWordsCount" />
         <item itemvalue="Application.StringCharOccurance" />
         <item itemvalue="Application.DuplicateCharString" />
         <item itemvalue="Application.DuplicateChar" />
         <item itemvalue="Application.Palindrome1" />
-        <item itemvalue="Application.practice.Palindrome" />
       </list>
     </recent_temporary>
   </component>
