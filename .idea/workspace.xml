@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8caa665d-a94b-46fb-a7e2-cda0a239a6a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayPrograms/ArrayCopyJava8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringPrograms/DuplicateWordsOccurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringPrograms/StringConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringPrograms/StringRotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/ArraySegregation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java-programs/ArrayPrograms/ArraySegregation.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,48 +51,27 @@
     "Application.ArraySegZeroAndOnes.executor": "Run",
     "Application.ArraySegregation.executor": "Run",
     "Application.CharacterPercentage.executor": "Run",
+    "Application.DuplicateWordsOccurance.executor": "Run",
     "Application.EmployeTest.executor": "Run",
     "Application.FirstRepeatedNonRepeated.executor": "Run",
+    "Application.GroupBy.executor": "Run",
     "Application.ReverseWordsString.executor": "Run",
+    "Application.StringConversion.executor": "Run",
+    "Application.StringCount.executor": "Run",
+    "Application.StringRotation.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "#1 on main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EmployeTest">
-    <configuration name="ArrayCopyJava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayPrograms.ArrayCopyJava8" />
+  <component name="RunManager" selected="Application.StringRotation">
+    <configuration name="DuplicateWordsOccurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPrograms.DuplicateWordsOccurrence" />
       <module name="core-java-programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayPrograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArraySegZeroAndOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayPrograms.ArraySegZeroAndOnes" />
-      <module name="core-java-programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArrayPrograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArraySegregation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayPrograms.ArraySegregation" />
-      <module name="core-java-programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArrayPrograms.*" />
+          <option name="PATTERN" value="StringPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,8 +92,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstRepeatedNonRepeated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringPrograms.FirstRepeatedNonRepeated" />
+    <configuration name="StringConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPrograms.StringConversion" />
+      <module name="core-java-programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPrograms.StringCount" />
+      <module name="core-java-programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPrograms.StringRotation" />
       <module name="core-java-programs" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringRotation" />
         <item itemvalue="Application.EmployeTest" />
-        <item itemvalue="Application.ArraySegregation" />
-        <item itemvalue="Application.ArrayCopyJava8" />
-        <item itemvalue="Application.ArraySegZeroAndOnes" />
-        <item itemvalue="Application.FirstRepeatedNonRepeated" />
+        <item itemvalue="Application.StringConversion" />
+        <item itemvalue="Application.DuplicateWordsOccurrence" />
+        <item itemvalue="Application.StringCount" />
       </list>
     </recent_temporary>
   </component>
