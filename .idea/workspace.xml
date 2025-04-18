@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8caa665d-a94b-46fb-a7e2-cda0a239a6a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StringPrograms/DuplicateWordsOccurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringPrograms/StringConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringPrograms/StringRotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,27 +42,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayCopyJava8.executor": "Run",
-    "Application.ArraySegZeroAndOnes.executor": "Run",
-    "Application.ArraySegregation.executor": "Run",
-    "Application.CharacterPercentage.executor": "Run",
-    "Application.DuplicateWordsOccurance.executor": "Run",
-    "Application.EmployeTest.executor": "Run",
-    "Application.FirstRepeatedNonRepeated.executor": "Run",
-    "Application.GroupBy.executor": "Run",
-    "Application.ReverseWordsString.executor": "Run",
-    "Application.StringConversion.executor": "Run",
-    "Application.StringCount.executor": "Run",
-    "Application.StringRotation.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "#1 on main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayCopyJava8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySegZeroAndOnes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySegregation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharacterPercentage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateWordsOccurance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstRepeatedNonRepeated.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupBy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseWordsString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringRotation.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#1 on main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.StringRotation">
+}</component>
+  <component name="RunManager" selected="Application.CommonCharactersString">
+    <configuration name="CommonCharactersString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPrograms.CommonCharactersString" />
+      <module name="core-java-programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DuplicateWordsOccurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringPrograms.DuplicateWordsOccurrence" />
       <module name="core-java-programs" />
@@ -105,19 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringPrograms.StringCount" />
-      <module name="core-java-programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringPrograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringPrograms.StringRotation" />
       <module name="core-java-programs" />
@@ -133,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommonCharactersString" />
         <item itemvalue="Application.StringRotation" />
         <item itemvalue="Application.EmployeTest" />
         <item itemvalue="Application.StringConversion" />
         <item itemvalue="Application.DuplicateWordsOccurrence" />
-        <item itemvalue="Application.StringCount" />
       </list>
     </recent_temporary>
   </component>
