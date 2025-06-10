@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8caa665d-a94b-46fb-a7e2-cda0a239a6a5" name="Changes" comment="" />
+    <list default="true" id="8caa665d-a94b-46fb-a7e2-cda0a239a6a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,31 +42,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayCopyJava8.executor": "Run",
-    "Application.ArraySegZeroAndOnes.executor": "Run",
-    "Application.ArraySegregation.executor": "Run",
-    "Application.CharacterPercentage.executor": "Run",
-    "Application.CommonCharactersString.executor": "Run",
-    "Application.DuplicateIntegers.executor": "Run",
-    "Application.DuplicateWordsOccurance.executor": "Run",
-    "Application.EmployeTest.executor": "Run",
-    "Application.FirstRepeatedNonRepeated.executor": "Run",
-    "Application.GroupBy.executor": "Run",
-    "Application.ReverseWordsString.executor": "Run",
-    "Application.StringConversion.executor": "Run",
-    "Application.StringCount.executor": "Run",
-    "Application.StringPrograms.StringStartsWith.executor": "Run",
-    "Application.StringRotation.executor": "Run",
-    "Application.StringStartsWith.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayCopyJava8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySegZeroAndOnes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySegregation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharacterPercentage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommonCharactersString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateWordsOccurance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstRepeatedNonRepeated.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupBy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseWordsString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringPrograms.StringStartsWith.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringRotation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringStartsWith.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#1 on main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.StringPrograms.StringStartsWith">
+}</component>
+  <component name="RunManager" selected="Application.PartitioningBy">
     <configuration name="CommonCharactersString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringPrograms.CommonCharactersString" />
       <module name="core-java-programs" />
@@ -91,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringPrograms.StringStartsWith" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringPrograms.StringStartsWith" />
+    <configuration name="PartitioningBy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamapi.PartitioningBy" />
       <module name="core-java-programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringPrograms.*" />
+          <option name="PATTERN" value="streamapi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringPrograms.StringRotation" />
+    <configuration name="StringPrograms.StringStartsWith" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPrograms.StringStartsWith" />
       <module name="core-java-programs" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PartitioningBy" />
         <item itemvalue="Application.StringPrograms.StringStartsWith" />
         <item itemvalue="Application.DuplicateIntegers" />
         <item itemvalue="Application.StringStartsWith" />
         <item itemvalue="Application.CommonCharactersString" />
-        <item itemvalue="Application.StringRotation" />
       </list>
     </recent_temporary>
   </component>
